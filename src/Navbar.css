@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+      gap: 30px;
+      line-height: 50px;
+     
+}
+.navbar img{
+    width: 20px;
+}
+.navbar{
+    border: 1px solid rgb(249, 248, 248);
+    background-color: rgb(249, 248, 248);
+}
+
+.mini{
+    font-size: 48px;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: bold;
+}
+.build{
+    font-size: 25px;
+    text-align: center;
+    
+}
+.learn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 30px;
+    
+}
+
+.more{
+    border: 1px solid rgb(115, 115, 255);
+    background-color: rgb(115, 115, 255);
+    padding: 10px;
+    color: white;
+    border-radius: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 16px;
+}
+
+.buy{
+    border: 1px solid rgb(115, 115, 255);
+    padding: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(115, 115, 255) ;
+}
+
+.tab img{
+    width: 1200px;
+    padding-left: 300px;
+
+}
+
+.pro{
+    padding-top: 750px;
+   background-image: url(https://i.ytimg.com/vi/eDqfg_LexCQ/maxresdefault.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-bottom: 30px;
+    
+}
+.us{
+    color: silver;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+
+
+
